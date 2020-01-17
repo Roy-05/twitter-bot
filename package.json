@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Roy-05/twitter-bot/issues"
   },
-  "homepage": "https://github.com/Roy-05/twitter-bot#readme"
+  "homepage": "https://github.com/Roy-05/twitter-bot#readme",
+  "dependencies": {
+    "twit": "^2.2.11"
+  }
 }
